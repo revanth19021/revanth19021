@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @revanth19021
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning phython
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on good company
 - 📫 How to reach me by flight
 
