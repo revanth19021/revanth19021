@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on good company
-- 📫 How to reach me by flight
+- 📫 How to reach me 
 
 <!---
 revanth19021/revanth19021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
