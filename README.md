@@ -96,13 +96,20 @@
 
 ### 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=revanth19021&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanth19021&theme=tokyo-night&title=My%20GitHub%20Activity" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/revanth19021/revanth19021/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
