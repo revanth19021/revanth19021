@@ -121,6 +121,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/revanth19021/revanth19021/output/snake.svg" alt="Snake animation" />
+</p>
+
+
 ### ✨ Fun Fact
 
 > I enjoy understanding how things work in depth ⚙️
