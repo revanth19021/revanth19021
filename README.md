@@ -3,6 +3,11 @@
 <h3 align="center">💻 Full Stack Developer | Multilingual Programmer (Python, Java, C, C++) | AI Enthusiast</h3>
 <ul>
 <li>🚀 Building Scalable Web Apps | Solving DSA | Exploring AI</li>
+<li>💻 I also have experience in front-end web development and I'm always eager to expand my skills and take on new challenges.</li>
+
+<li>🤖 My main areas of interest include machine learning, data science, and using technology to solve real-world problems.</li>
+
+<li>🚀 I'm actively working on projects to apply my knowledge and I'm open to collaborations and learning opportunities.</li>
   
   </ul>
 
