@@ -79,6 +79,12 @@
 
 ---
 
+### 🎧 Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31pxeth7j7wv4a7iu7ysxtrahkvy&cover_image=true&theme=novatorem&background_color=0d1117&bar_color=53b14f&bar_color_cover=false" />
+</p>
+
 ### ✨ Fun Fact
 
 > I enjoy understanding how things work in depth ⚙️
