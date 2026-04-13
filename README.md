@@ -137,7 +137,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=3&section=footer"/>
 </p>
 
----
 ### 🚀 Featured Projects
 
 #### 🗳️ Online Voting System
