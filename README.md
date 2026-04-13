@@ -123,10 +123,6 @@
 - Tech Stack: Power BI
 
 ---
-#### 📈 Profile Views Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=revanth19021&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
 
 ### ✨ Fun Fact
