@@ -122,7 +122,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/revanth19021/revanth19021/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanth19021&theme=tokyo-night" />
 </p>
 
 ### ✨ Fun Fact
