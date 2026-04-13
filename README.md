@@ -19,9 +19,9 @@
 
 ### 📫 Contact Me
 - 📧 Email: **revanth200319@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/naga-sai-revanth-emadabathuni-00b89323a
-- 📸 Instagram: https://www.instagram.com/nagasai_revanth/
-
+- 💼 LinkedIn: [Profile](https://linkedin.com/in/naga-sai-revanth-emadabathuni-00b89323a)
+- 📸 Instagram: [@nagasai_revanth](https://www.instagram.com/nagasai_revanth/)
+- 💻 GitHub: [revanth19021](https://github.com/revanth19021)
 ---
 
 ### 🤝 Connect With Me
