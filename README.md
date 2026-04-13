@@ -82,11 +82,9 @@
 ### 🎧 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31pxeth7j7wv4a7iu7ysxtrahkvy&theme=novatorem&show_offline=true" />
-</p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pxeth7j7wv4a7iu7ysxtrahkvy" />
+  <a href="https://open.spotify.com/user/31pxeth7j7wv4a7iu7ysxtrahkvy">
+    <img src="https://img.shields.io/badge/Spotify-My%20Profile-1DB954?style=for-the-badge&logo=spotify" />
+  </a>
 </p>
 
 ### ✨ Fun Fact
