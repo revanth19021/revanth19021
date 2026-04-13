@@ -87,6 +87,39 @@
   </a>
 </p>
 
+
+---
+
+### 🚀 Featured Projects
+
+#### 🗳️ Online Voting System
+- Built a secure voting platform using **Django**
+- Implemented user authentication and vote validation
+- Ensured one-person-one-vote mechanism
+- Tech Stack: Django, SQLite, HTML, CSS
+
+---
+
+#### 📚 Online Learning Platform
+- Developed a platform for courses, videos, and progress tracking
+- Users can enroll in courses and monitor learning progress
+- Tech Stack: Django, React (or HTML/CSS if not yet), SQLite
+
+---
+
+#### 🌐 MERN Stack Application
+- Full-stack web application with CRUD functionality
+- Built REST APIs and dynamic frontend
+- Tech Stack: MongoDB, Express, React, Node.js
+
+---
+
+#### 📊 Power BI Dashboard
+- Created interactive dashboards for data visualization
+- Analyzed datasets to extract meaningful insights
+- Tech Stack: Power BI
+
+---
 ### ✨ Fun Fact
 
 > I enjoy understanding how things work in depth ⚙️
