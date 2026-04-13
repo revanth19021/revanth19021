@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emadabathuni Naga Sai Revanth</h1>
 
 <h3 align="center">💻 Full Stack Developer | Multilingual Programmer (Python, Java, C, C++) | AI Enthusiast</h3>
+<br><br>
 <ul>
 <li>🚀 Building Scalable Web Apps | Solving DSA | Exploring AI</li>
 <li>💻 I also have experience in front-end web development and I'm always eager to expand my skills and take on new challenges.</li>
