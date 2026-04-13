@@ -41,9 +41,17 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,react,nodejs,express,mongodb,docker,git,linux,flask,bootstrap,sass,postman,oracle" />
-</p>
 
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css,js,react,nodejs,express,docker,git,django,bootstrap,flask&perline=9" />
+
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="48"/>
+
+  <!-- REST API -->
+  <img src="https://img.icons8.com/fluency/48/api.png" height="48"/>
+
+</p>
 ---
 
 ### 📊 GitHub Stats
