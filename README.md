@@ -105,9 +105,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanth19021&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanth19021&theme=tokyo-night&title=My%20GitHub%20Activity" />
 </p>
-
 ---
 
 ### 🧠 LeetCode Stats
