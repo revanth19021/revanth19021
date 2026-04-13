@@ -121,10 +121,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanth19021&theme=tokyo-night" />
-</p>
-
 ### ✨ Fun Fact
 
 > I enjoy understanding how things work in depth ⚙️
