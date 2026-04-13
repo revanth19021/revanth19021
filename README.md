@@ -128,9 +128,13 @@
 ### 🎧 Now Playing on Spotify
 
 <p align="center">
-  <div style="background-color:#0d1117; padding:15px; border-radius:10px; display:inline-block;">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pxeth7j7wv4a7iu7ysxtrahkvy&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&profanity=false">
-  </div>
+  <a href="https://open.spotify.com/user/31pxeth7j7wv4a7iu7ysxtrahkvy">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pxeth7j7wv4a7iu7ysxtrahkvy&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&profanity=false" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=3&section=footer"/>
 </p>
 
 ---
