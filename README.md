@@ -27,17 +27,14 @@
 ### 🤝 Connect With Me
 <p align="left">
 
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/naga-sai-revanth-emadabathuni-00b89323a" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right:10px;"/>
   </a>
 
-  <!-- Instagram -->
   <a href="https://www.instagram.com/nagasai_revanth/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" style="margin-right:10px;"/>
   </a>
 
-  <!-- GitHub -->
   <a href="https://github.com/revanth19021" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
