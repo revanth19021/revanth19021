@@ -115,6 +115,16 @@
 
 ---
 
+
+<h3 align="center">🎧 Now Playing</h3>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31pxeth7j7wv4a7iu7ysxtrahkvy">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pxeth7j7wv4a7iu7ysxtrahkvy&theme=compact" height="70"/>
+  </a>
+</p>
+
+---
 ### 🚀 Featured Projects
 
 #### 🗳️ Online Voting System
