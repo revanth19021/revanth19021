@@ -42,7 +42,6 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" style="filter: drop-shadow(0 0 5px #00ffcc);" />
 
   <!-- Languages -->
   <b>Languages</b><br/>
