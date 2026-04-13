@@ -64,6 +64,10 @@
   <img src="https://streak-stats.demolab.com?user=revanth19021&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanth19021&theme=tokyo-night" />
+</p>
+
 ---
 
 ### 🧠 LeetCode Stats
@@ -77,7 +81,8 @@
 
 ### ✨ Fun Fact
 
-> I enjoy breaking things down to understand how they actually work ⚙️
+> I enjoy understanding how things work in depth ⚙️
+> I continuously seek to learn the logic behind modern technologies.
 
 
 ---
