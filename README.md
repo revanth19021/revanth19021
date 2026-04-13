@@ -48,6 +48,9 @@
   <!-- Power BI -->
   <img src="https://img.icons8.com/color/48/power-bi.png" height="48"/>
 
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48"/>
+
   <!-- REST API -->
   <img src="https://img.icons8.com/fluency/48/api.png" height="48"/>
 
@@ -120,6 +123,10 @@
 - Tech Stack: Power BI
 
 ---
+#### 📈 Profile Views Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=revanth19021&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 
 ### ✨ Fun Fact
