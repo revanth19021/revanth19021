@@ -95,10 +95,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=revanth19021&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=revanth19021&layout=compact&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=revanth19021&theme=tokyonight" />
