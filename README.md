@@ -17,6 +17,8 @@
 - 🧠 Embrace challenges to build stronger problem-solving skills  
 - ⚡ Focus on understanding fundamentals deeply  
 
+---
+
 ### 🌐 Portfolio
 <!-- Add your portfolio link here -->
 
@@ -78,7 +80,7 @@
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
 
 </p>
-
+---
 
 ### 📊 GitHub Stats
 <p align="center">
