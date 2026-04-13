@@ -39,20 +39,34 @@
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
+### 🛠️ Tech Stack
 
-  <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,html,css,js,react,nodejs,express,docker,git,django,bootstrap,flask&perline=9" />
+<p align="center">
 
-  <!-- Power BI -->
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="48"/>
+  <!-- Languages -->
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" /><br/><br/>
 
-  <!-- Excel -->
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48"/>
+  <!-- Frontend -->
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,sass" /><br/><br/>
 
-  <!-- REST API -->
-  <img src="https://img.icons8.com/fluency/48/api.png" height="48"/>
+  <!-- Backend -->
+  <b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" /><br/><br/>
+
+  <!-- Tools -->
+  <b>Tools & DevOps</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman" /><br/><br/>
+
+  <!-- Database -->
+  <b>Database</b><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,oracle" /><br/><br/>
+
+  <!-- Data Tools -->
+  <b>Data & Analytics</b><br/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
 
 </p>
 ---
