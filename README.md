@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chiranjeevi Bomma</h1>
+<h1 align="center">Hi 👋, I'm Emadabathuni Naga Sai Revanth</h1>
 
 <h3 align="center">💻 Passionate Developer | Python | C | Web Development Enthusiast</h3>
 
@@ -13,15 +13,14 @@
 ---
 
 ### 🌐 Portfolio
-👉 [Visit My Portfolio](https://chiranjeevi-portfolio-v3.netlify.app/)
+
 
 ---
 
 ### 📫 Contact Me
-- 📧 Email: **bomma.chiru@gmail.com**
-- 💼 LinkedIn: [chiranjeevi-bomma-36a401235](https://linkedin.com/in/chiranjeevi-bomma-36a401235)
-- 📸 Instagram: **@bomma_chiranjeevi**
-
+- 📧 Email: **revanth200319@gmail.com**
+- 💼 LinkedIn: naga-sai-revanth-emadabathuni-00b89323a
+- 📸 Instagram: @nagasai_revanth
 ---
 
 ### 🤝 Connect With Me
