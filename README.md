@@ -115,6 +115,15 @@
   </a>
 </p>
 
+---
+
+## Music  <img src="assets/pic.png" width="30px" align="center">
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31pxeth7j7wv4a7iu7ysxtrahkvy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pxeth7j7wv4a7iu7ysxtrahkvy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
 
 ---
 
