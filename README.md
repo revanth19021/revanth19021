@@ -12,6 +12,18 @@
 
 ---
 
+### 📊 Skill Progress
+
+Python        █████████░░ 90%
+Java          ████████░░░ 80%
+C / C++       ████████░░░ 80%
+React         ███████░░░░ 70%
+Node.js       ███████░░░░ 70%
+Django        ████████░░░ 80%
+Flask         ███████░░░░ 70%
+SQL           ████████░░░ 80%
+
+
 ### 🌐 Portfolio
 <!-- Add your portfolio link here -->
 
