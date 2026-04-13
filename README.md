@@ -127,7 +127,11 @@
 
 ### 🎧 Now Playing on Spotify
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pxeth7j7wv4a7iu7ysxtrahkvy&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&profanity=false" align='center'>
+<p align="center">
+  <div style="background-color:#0d1117; padding:15px; border-radius:10px; display:inline-block;">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pxeth7j7wv4a7iu7ysxtrahkvy&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&profanity=false">
+  </div>
+</p>
 
 ---
 ### 🚀 Featured Projects
