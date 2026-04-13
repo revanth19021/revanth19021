@@ -80,6 +80,7 @@
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
 
 </p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -110,6 +111,8 @@
 ### 🎧 Now Playing on Spotify
 
 <p align="center"> <a href="https://open.spotify.com/user/31pxeth7j7wv4a7iu7ysxtrahkvy" target="_blank" title="Open my Spotify"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pxeth7j7wv4a7iu7ysxtrahkvy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false"> </a> </p>
+
+
 ---
 
 ### 🚀 Featured Projects
