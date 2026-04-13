@@ -58,19 +58,27 @@
 
 ### 📊 GitHub Stats
 <p align="center">
+
+  <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=revanth19021&show_icons=true&theme=tokyonight" 
   />
+  
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanth19021&layout=compact&theme=tokyonight" 
   />
+
 </p>
 
----
-
-### 🔥 Streak Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chiru-damon&theme=tokyonight" />
+
+  <!-- LeetCode Badge -->
+  <a href="https://leetcode.com/u/revanth200319/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" 
+    />
+  </a>
+
 </p>
 
 ---
