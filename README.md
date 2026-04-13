@@ -46,15 +46,15 @@
 <p align="left">
 
   <a href="https://linkedin.com/in/naga-sai-revanth-emadabathuni-00b89323a" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin-right:10px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
   <a href="https://www.instagram.com/nagasai_revanth/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" style="margin-right:10px;"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="https://github.com/revanth19021" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </p>
