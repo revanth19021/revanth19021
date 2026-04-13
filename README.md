@@ -42,6 +42,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=python" style="filter: drop-shadow(0 0 5px #00ffcc);" />
 
   <!-- Languages -->
   <b>Languages</b><br/>
@@ -69,7 +70,7 @@
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
 
 </p>
----
+
 
 ### 📊 GitHub Stats
 <p align="center">
