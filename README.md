@@ -12,7 +12,10 @@
 - 🚀 Always curious about how things work under the hood
 
 ---
-
+### 🌱 Growth Mindset
+- 🚀 Committed to continuous learning and improvement  
+- 🧠 Embrace challenges to build stronger problem-solving skills  
+- ⚡ Focus on understanding fundamentals deeply  
 
 ### 🌐 Portfolio
 <!-- Add your portfolio link here -->
