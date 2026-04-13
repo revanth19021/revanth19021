@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Emadabathuni+Naga+Sai+Revanth" />
+  <div style="background-color:#0d1117; padding:20px; border-radius:10px; display:inline-block;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Emadabathuni+Naga+Sai+Revanth" />
+  </div>
 </p>
 
 <h3 align="center">💻 Full Stack Developer | Multilingual Programmer (Python, Java, C, C++) | AI Enthusiast</h3>
