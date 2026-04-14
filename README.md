@@ -158,10 +158,11 @@
 
 ---
 
-#### 📊 Power BI Dashboard
-- Created interactive dashboards for data visualization
-- Analyzed datasets to extract meaningful insights
-- Tech Stack: Power BI
+#### 🔐 Blockchain Academic Credential Verification System
+- Developed a decentralized system for academic credential verification
+- Used IPFS for secure and tamper-proof data storage
+- Enabled reliable authentication of credentials without intermediaries
+- Tech Stack: Blockchain, JavaScript, IPFS
 
 ---
 
