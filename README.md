@@ -30,7 +30,7 @@
 ---
 
 ### 🌐 Portfolio
-<!-- Add your portfolio link here -->
+<a href="https://nagasairevanthportfolio.vercel.app/" target="_blank">View My Portfolio</a>
 
 ---
 
