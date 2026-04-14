@@ -15,7 +15,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Passionate about
 - 🔭 I’m deeply interested in **Python, C, Java and Web Development**
 - ⚙️ I love exploring the **inner workings of technology**
 - 🌱 Currently learning and building cool projects and exploring AI
