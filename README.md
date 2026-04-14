@@ -151,10 +151,10 @@
 
 ---
 
-#### 🌐 MERN Stack Application
-- Full-stack web application with CRUD functionality
-- Built REST APIs and dynamic frontend
-- Tech Stack: MongoDB, Express, React, Node.js
+#### 🌐 Wearable IoT Device
+- Developed a wearable device to assist tourists with real-time information
+- Provided details on nearby places, weather conditions, and local language support
+- Tech Stack: IoT, C++, Python
 
 ---
 
