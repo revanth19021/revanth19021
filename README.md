@@ -158,6 +158,13 @@
 
 ---
 
+#### 💻 CodeQuest
+- Developed a coding platform to help users practice programming and improve problem-solving skills
+- Implemented interactive coding challenges and user progress tracking
+- Tech Stack: Spring Boot, Angular, Java, REST APIs, SQL
+
+---
+
 #### 🔐 Blockchain Academic Credential Verification System
 - Developed a decentralized system for academic credential verification
 - Used IPFS for secure and tamper-proof data storage
