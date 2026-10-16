@@ -69,12 +69,12 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" /><br/><br/>
 
   <!-- Frontend -->
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,sass" /><br/><br/>
 
-  <!-- Backend -->
-  <b>Backend</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" /><br/><br/>
+<b>Frontend</b><br/> <img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,sass" /><br/><br/>
+
+<!-- Backend -->
+
+<b>Backend</b><br/> <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring" /><br/><br/>
 
   <!-- Tools -->
   <b>Tools & DevOps</b><br/>
