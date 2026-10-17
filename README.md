@@ -122,16 +122,23 @@
 
 ---
 
-### 🎧 Now Playing on Spotify
+## 🎧 Now Playing on Spotify
 
 <p align="center">
   <a href="https://open.spotify.com/user/31pxeth7j7wv4a7iu7ysxtrahkvy">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pxeth7j7wv4a7iu7ysxtrahkvy&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&profanity=false" />
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pxeth7j7wv4a7iu7ysxtrahkvy&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&profanity=false"
+      alt="Spotify Now Playing"
+      width="400"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=3&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:FF00FF&height=3&section=footer"
+    alt="Neon divider"
+  />
 </p>
 
 ### 🚀 Featured Projects
